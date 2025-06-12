@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/S27iRp6ypEcnK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/smith-matrix-gifstyle-S27iRp6ypEcnK">via GIPHY</a></p>
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF6YTVwM3V4bWp0bjFxNDlhOG0wamRkaGtlY3F4eDA4eGV6dHg2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzQENJNdQaF2Bv9gXk/giphy.gif)
 <h1>👋 Hi there! I'm Cristián Gutiérrez, a cybersecurity professional bridging the gap between technical security and business impact .</h1>
 <p>I'm a cybersecurity professional with experience combining deep technical expertise with strategic business vision. Currently specializing in threat hunting, SIEM analysis, and security automation while pursuing advanced certifications in penetration testing.</p>
 <h2>⚡️ Where to find me</h2>
