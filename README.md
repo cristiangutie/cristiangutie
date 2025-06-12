@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1>👋 Hi there! I'm Cristián Gutiérrez, a cybersecurity professional bridging the gap between technical security and business impact .</h1>
 <p>I'm a cybersecurity professional with experience combining deep technical expertise with strategic business vision. Currently specializing in threat hunting, SIEM analysis, and security automation while pursuing advanced certifications in penetration testing.</p>
 
