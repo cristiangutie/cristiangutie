@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=white_r4bb1t%20👨‍💻&width=1000&height=50)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=white_r4bb1t%20👨‍💻&width=1000&height=80)](https://github.com/Akshay090/svg-banners)
 <h1>👋 Hi there! I'm Cristián Gutiérrez, a cybersecurity professional bridging the gap between technical security and business impact .</h1>
 <p>I'm a cybersecurity professional with experience combining deep technical expertise with strategic business vision. Currently specializing in threat hunting, SIEM analysis, and security automation while pursuing advanced certifications in penetration testing.</p>
 
