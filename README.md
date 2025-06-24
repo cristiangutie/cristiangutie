@@ -7,6 +7,9 @@
 <p><a target="_blank" href="https://dev.to/cristiangutie" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/cristiangutie" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/cristiangutie" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangutie&show_icons=true&locale=en" alt="cristiangutie" /></p>
+<div align="center">
+  ![snake gif](https://github.com/cristiangutie/cristiangutie/blob/output/github-snake-dark.svg)
+</div>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangutie&show_icons=true&locale=en" alt="cristiangutie" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangutie&show_icons=true&locale=en&layout=compact" alt="cristiangutie" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiangutie" alt="cristiangutie" /></a></p>
