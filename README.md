@@ -8,7 +8,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/cristiangutie" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/cristiangutie" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <div align="center">
-  ![snake gif](https://github.com/cristiangutie/cristiangutie/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/cristiangutie/cristiangutie/blob/output/github-snake-dark.svg">
 </div>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangutie&show_icons=true&locale=en" alt="cristiangutie" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangutie&show_icons=true&locale=en&layout=compact" alt="cristiangutie" /></p>
